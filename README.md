@@ -20,19 +20,17 @@ A real-time disaster management web application for tracking earthquakes, monito
 
 ## Quick Start
 
-\`\`\`bash
+bash
 # Install dependencies
 npm install
 
 # Run development server
 npm run dev
-\`\`\`
 
 ## Login Credentials
 
 - **User:** user@example.com / user123
 - **Admin:** admin@example.com / admin123
-
 
 ## License
 
