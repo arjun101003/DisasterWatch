@@ -17,15 +17,22 @@ A real-time disaster management web application for tracking earthquakes, monito
 - Tailwind CSS & shadcn/ui
 - Leaflet.js for mapping
 - Local Storage for data persistence
-
 ## Quick Start
 
-bash
+\`\`\`bash
+# Clone the repository
+git clone https://github.com/yourusername/disasterwatch.git
+cd disasterwatch
+
 # Install dependencies
 npm install
 
 # Run development server
 npm run dev
+\`\`\`
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
 
 ## Login Credentials
 
