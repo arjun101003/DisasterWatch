@@ -33,9 +33,6 @@ npm run dev
 - **User:** user@example.com / user123
 - **Admin:** admin@example.com / admin123
 
-## Screenshots
-
-![Dashboard](/public/images/screenshot-dashboard.png)
 
 ## License
 
