@@ -1,33 +1,26 @@
-🌐 DisasterWatch
+# DisasterWatch
+
 A real-time disaster management web application for tracking earthquakes, monitoring alerts, and providing disaster preparedness information.
 
+## Features
 
-🚀 Features
-🌍 Interactive Earthquake Map – Track seismic activity with color-coded markers
+- 🌍 **Interactive Earthquake Map** - Track seismic activity with color-coded markers
+- 📰 **News Portal** - Latest disaster news categorized by type and region
+- 🤖 **AI Chatbot** - Get guidance on disaster preparedness and response
+- 👤 **User Dashboard** - Personalized disaster information and alerts
+- 👑 **Admin Panel** - Manage users, alerts, and news content
 
-📰 News Portal – Latest disaster news categorized by type and region
+## Tech Stack
 
-🤖 AI Chatbot – Get guidance on disaster preparedness and response
+- Next.js 13 (App Router)
+- React & TypeScript
+- Tailwind CSS & shadcn/ui
+- Leaflet.js for mapping
+- Local Storage for data persistence
 
-👤 User Dashboard – Personalized disaster information and alerts
+## Quick Start
 
-👑 Admin Panel – Manage users, alerts, and news content
-
-
-🛠️ Tech Stack
-Frontend: Next.js 13 (App Router), React, TypeScript
-
-Styling: Tailwind CSS, shadcn/ui
-
-Mapping: Leaflet.js
-
-Storage: Local Storage for data persistence
-
-
-⚡ Quick Start
-bash
-Copy
-Edit
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/disasterwatch.git
 cd disasterwatch
@@ -37,16 +30,19 @@ npm install
 
 # Run development server
 npm run dev
-Open your browser at: http://localhost:3000
+```
 
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-🔐 Login Credentials
-These are sample credentials for demo purposes:
+## Login Credentials
 
-User: user@example.com / user123
+- **User:** user@example.com / user123
+- **Admin:** admin@example.com / admin123
 
-Admin: admin@example.com / admin123
+## Screenshots
 
+![Dashboard](/public/images/screenshot-dashboard.png)
 
-📄 License
-This project is licensed under the MIT License.
+## License
+
+MIT
