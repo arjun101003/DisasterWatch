@@ -40,6 +40,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Admin:** admin@example.com / admin123
 
 
+## Screenshots
+
+![DW](https://github.com/user-attachments/assets/b62cacca-2b1d-4d32-9153-a0853f88bed3)
+
+
 ## License
 
 MIT
