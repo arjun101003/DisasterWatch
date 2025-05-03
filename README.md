@@ -39,9 +39,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **User:** user@example.com / user123
 - **Admin:** admin@example.com / admin123
 
-## Screenshots
-
-![Dashboard](/public/images/screenshot-dashboard.png)
 
 ## License
 
