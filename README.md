@@ -1,6 +1,6 @@
 # DisasterWatch
 
-A real-time disaster management web application for tracking earthquakes, monitoring alerts, and providing disaster preparedness information.
+A real-time disaster management web application that tracks past earthquakes, provides information on disaster preparedness, and offers the latest disaster news.
 
 ## Features
 
